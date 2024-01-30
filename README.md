@@ -12,4 +12,3 @@ college service with api gateway ---------> http://localhost:8765/COLLEGESERVICE
 api-gateway port : 8765
 
 Service Regestry url is ------------------> http://localhost:8761/
-
